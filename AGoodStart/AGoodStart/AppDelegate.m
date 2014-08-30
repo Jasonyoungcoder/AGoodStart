@@ -11,6 +11,9 @@
 @implementation AppDelegate
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
+{ NSLog(@"Hello World");
+}
+
 {
     // Override point for customization after application launch.
     return YES;
